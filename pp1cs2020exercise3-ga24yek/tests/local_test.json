@@ -1,0 +1,16 @@
+{
+    "null": {
+        "strings": ["ARNDCEQGHI", "LKMFPSTWYV"],
+        "gap_penalty": -6,
+        "matrix": "identity",
+        "alignment": ["", ""]
+    },
+    "short": {
+        "strings": ["ARNDCEQGHI", "DDCEQHG"],
+        "gap_penalty": -6,
+        "matrix": "blosum",
+        "alignment": ["NDCEQGH", "DDCEQ-H"],
+        "residue_aligned_on_first": [[1, 0, false], [1, 3, true]],
+        "residue_aligned_on_second": [[2, 0, true], [2, 6, false]]
+    }
+}

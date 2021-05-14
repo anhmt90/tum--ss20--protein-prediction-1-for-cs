@@ -1,0 +1,42 @@
+{
+    "filename": "7ahl.cif",
+    "number_of_chains": 7,
+    "sequence_chain": "C",
+    "sequence": "ADSDINIKTGTTDIGSNTTVKTGDLVTYDKENGMHKKVFYSFIDDKNHNKKLLVIRTKGTIAGQYRVYSEEGANKSGLAWPSAFKVQLQLPDNEVAQISDYYPRNSIDTKEYMSTLTYGFNGNVTGDDTGKIGGLIGANVSIGHTLKYVQPDFKTILESPTDKKVGWKVIFNNMVNQNWGPYDRDSWNPVYGNQLFMKTRNGSMKAADNFLDPNKASSLLSSGFSPDFATVITMDRKASKQQTNIDVIYERVRDDYQLHWTSTNWKGTNTKDKWTDRSSERYKIDWEKEEMTN",
+    "water_molecules_chain": "D",
+    "number_of_water_molecules": 122,
+    "ca_distance_same_chains": {
+        "chain_1": "A",
+        "id_1": 20,
+        "chain_2": "A",
+        "id_2": 55,
+        "result": 13
+    } ,
+    "ca_distance_diff_chains": {
+        "chain_1": "A",
+        "id_1": 121,
+        "chain_2": "E",
+        "id_2": 120,
+        "result": 26
+    },
+    "bfactors_filename_1": "bfactors_1.npy",
+    "bfactors_chain_1": "A",
+    "bfactors_filename_2": "bfactors_2.npy",
+    "bfactors_chain_2": "B",
+    "bfactors_filename_3": "bfactors_3.npy",
+    "bfactors_chain_3": "C",
+    "bfactors_filename_4": "bfactors_4.npy",
+    "bfactors_chain_4": "D",
+    "bfactors_filename_5": "bfactors_5.npy",
+    "bfactors_chain_5": "E",
+    "contact_map_filename_1": "contact_map_1.npy",
+    "contact_map_chain_1": "A",
+    "contact_map_filename_2": "contact_map_2.npy",
+    "contact_map_chain_2": "B",
+    "contact_map_filename_3": "contact_map_3.npy",
+    "contact_map_chain_3": "C",
+    "contact_map_filename_4": "contact_map_4.npy",
+    "contact_map_chain_4": "D",
+    "contact_map_filename_5": "contact_map_5.npy",
+    "contact_map_chain_5": "E"
+}

@@ -1,0 +1,42 @@
+{   
+    "parameters" : {
+        "learning_rate"   : 0.001,
+        "nepochs"         : 10,
+        "seed"            : 42,
+        "half_window"     : 2,
+        "nhidden"         : 30,
+        "test_percentage" : 0.15,
+        "alphabet_size"   : 20
+        },
+        
+    "raw_x":                        "raw_x.pkl",
+    "raw_y":                        "raw_y.pkl",
+    "one_hot_lookup":               "one_hot_lookup.npz",
+    "one_hot_inputs":               "one_hot_inputs.npz",
+    "sliding_window_inputs":        "sliding_window_inputs.npz",
+    "y_classes":                    "y_classes.npz",
+    "y_mask":                       "y_mask.npz",
+    "filtered_x":                   "filtered_x.npz",
+    "filtered_y":                   "filtered_y.npz",
+    "train_test_splits":            "train_test_splits.pkl",
+    
+    "n_samples": 29952,
+    "n_masked" :  3193,
+    "n_pos"    : 11445,
+    "n_neg"    : 18507,
+    
+    "softmax_test"  : {
+        "softmax_test_set_size" : 5,
+        "softmax_result"        : "softmax_result.npy"
+        },
+        
+    "cross_entropy" : {
+        "n_samples" : 5,
+        "n_classes" :  2,
+        "cross_entropy_result" : "cross_entropy_result.npy",
+        "delta_ce_result"      : "delta_ce_result.npy"
+        },
+    "predictions"     : "predictions.npy",
+    "trained_weights" : "trained_weights.npy",
+    "performance"     : "performance.pkl"
+}

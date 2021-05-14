@@ -1,0 +1,14 @@
+{
+    "test_1": {
+        "input": ["ATGAACCAACCTTATGAAGGAATTAACCTG","TGA"],
+        "output": [1,14]
+    },
+    "test_2": {
+        "input": ["ATGAACCAACCTTATGAAGGAATTAACCTG","CCC"],
+        "output": []
+    }, 
+    "test_3": {
+        "input": ["AAAA","AAA"],
+        "output": [0, 1]
+    }
+}

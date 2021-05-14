@@ -1,0 +1,22 @@
+{
+    "test_A": {
+        "input": "A",
+        "output": "T"
+    },
+    "test_C": {
+        "input": "C",
+        "output": "G"
+    },
+    "test_T": {
+        "input": "T",
+        "output": "A"
+    },
+    "test_G": {
+        "input": "G",
+        "output": "C"
+    },
+    "complete_1":{
+        "input": "ATGC",
+        "output": "TACG" 
+    }
+}

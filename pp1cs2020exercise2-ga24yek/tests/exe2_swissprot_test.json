@@ -1,0 +1,8 @@
+{
+    "filename": "P09616.xml",
+    "identifier": "P09616",
+    "sequence_length": 319,
+    "organism": "Staphylococcus aureus",
+    "localization": ["Secreted"],
+    "pdb_support": ["3M2L", "3M3R", "3M4D", "3M4E", "4IDJ", "4YHD", "7AHL"]
+}

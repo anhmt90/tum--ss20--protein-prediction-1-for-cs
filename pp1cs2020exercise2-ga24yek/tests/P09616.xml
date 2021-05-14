@@ -1,0 +1,571 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1989-07-01" modified="2018-03-28" version="128">
+<accession>P09616</accession>
+<name>HLA_STAAU</name>
+<protein>
+<recommendedName>
+<fullName>Alpha-hemolysin</fullName>
+<shortName>Alpha-HL</shortName>
+</recommendedName>
+<alternativeName>
+<fullName>Alpha-toxin</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">hly</name>
+<name type="synonym">hla</name>
+</gene>
+<organism>
+<name type="scientific">Staphylococcus aureus</name>
+<dbReference type="NCBI Taxonomy" id="1280"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Firmicutes</taxon>
+<taxon>Bacilli</taxon>
+<taxon>Bacillales</taxon>
+<taxon>Staphylococcaceae</taxon>
+<taxon>Staphylococcus</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1984" name="Infect. Immun." volume="46" first="615" last="618">
+<title>Primary sequence of the alpha-toxin gene from Staphylococcus aureus wood 46.</title>
+<authorList>
+<person name="Gray G.S."/>
+<person name="Kehoe M."/>
+</authorList>
+<dbReference type="PubMed" id="6500704"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PROTEIN SEQUENCE OF 27-44</scope>
+<source>
+<strain>ATCC 10832 / Wood 46</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="submission" date="1992-10" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Hedengrahn G."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>SEQUENCE REVISION</scope>
+<source>
+<strain>ATCC 10832 / Wood 46</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1992" name="J. Biol. Chem." volume="267" first="10902" last="10909">
+<title>Functional expression of the alpha-hemolysin of Staphylococcus aureus in intact Escherichia coli and in cell lysates. Deletion of five C-terminal amino acids selectively impairs hemolytic activity.</title>
+<authorList>
+<person name="Walker B."/>
+<person name="Krishnasastry M."/>
+<person name="Zorn L."/>
+<person name="Kasianowicz J."/>
+<person name="Bayley H."/>
+</authorList>
+<dbReference type="PubMed" id="1587866"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 27-319</scope>
+<scope>PARTIAL PROTEIN SEQUENCE</scope>
+<source>
+<strain>ATCC 10832 / Wood 46</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1996" name="Science" volume="274" first="1859" last="1866">
+<title>Structure of staphylococcal alpha-hemolysin, a heptameric transmembrane pore.</title>
+<authorList>
+<person name="Song L."/>
+<person name="Hobaugh M.R."/>
+<person name="Shustak C."/>
+<person name="Cheley S."/>
+<person name="Bayley H."/>
+<person name="Gouaux J.E."/>
+</authorList>
+<dbReference type="PubMed" id="8943190"/>
+<dbReference type="DOI" id="10.1126/science.274.5294.1859"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS)</scope>
+<source>
+<strain>ATCC 10832 / Wood 46</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1992" name="J. Biol. Chem." volume="267" first="21782" last="21786">
+<title>Assembly of the oligomeric membrane pore formed by Staphylococcal alpha-hemolysin examined by truncation mutagenesis.</title>
+<authorList>
+<person name="Walker B."/>
+<person name="Krishnasastry M."/>
+<person name="Zorn L."/>
+<person name="Bayley H."/>
+</authorList>
+<dbReference type="PubMed" id="1400487"/>
+</citation>
+<scope>MUTAGENESIS</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1994" name="Infect. Immun." volume="62" first="1843" last="1847">
+<title>Site-directed mutagenesis of the alpha-toxin gene of Staphylococcus aureus: role of histidines in toxin activity in vitro and in a murine model.</title>
+<authorList>
+<person name="Menzies B.E."/>
+<person name="Kernodle D.S."/>
+</authorList>
+<dbReference type="PubMed" id="8168947"/>
+</citation>
+<scope>MUTAGENESIS OF HISTIDINE RESIDUES</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1994" name="Infect. Immun." volume="62" first="2249" last="2256">
+<title>Histidine residues near the N-terminus of staphylococcal alpha-toxin as reporters of regions that are critical for oligomerization and pore formation.</title>
+<authorList>
+<person name="Jursch R."/>
+<person name="Hildebrand A."/>
+<person name="Hobom G."/>
+<person name="Tranum-Jensen J."/>
+<person name="Ward R."/>
+<person name="Kehoe M."/>
+<person name="Bhakdi S."/>
+</authorList>
+<dbReference type="PubMed" id="8188346"/>
+</citation>
+<scope>MUTAGENESIS OF HISTIDINE RESIDUES</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1995" name="J. Biol. Chem." volume="270" first="23065" last="23071">
+<title>Key residues for membrane binding, oligomerization, and pore forming activity of staphylococcal alpha-hemolysin identified by cysteine scanning mutagenesis and targeted chemical modification.</title>
+<authorList>
+<person name="Walker B."/>
+<person name="Bayley H."/>
+</authorList>
+<dbReference type="PubMed" id="7559447"/>
+<dbReference type="DOI" id="10.1074/jbc.270.39.23065"/>
+</citation>
+<scope>MUTAGENESIS</scope>
+</reference>
+<comment type="function">
+<text>Alpha-toxin binds to the membrane of eukaryotic cells resulting in the release of low-molecular weight molecules and leading to an eventual osmotic lysis. Heptamer oligomerization and pore formation is required for lytic activity.</text>
+</comment>
+<comment type="subunit">
+<text>Self-assembles to form first, a non-lytic oligomeric intermediate, and then, a mushroom-shaped homoheptamer structure of 100 Angstroms in length and up to 100 Angstroms in diameter.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-15848589"/>
+<interactant intactId="EBI-15848589"/>
+<organismsDiffer>false</organismsDiffer>
+<experiments>6</experiments>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location>Secreted</location>
+</subcellularLocation>
+<text>Secreted as a monomer. After oligomerization and pore formation, the complex is translocated across the bilayer, probably via the Gly-rich domain of each strand.</text>
+</comment>
+<comment type="domain">
+<text>The mushroom-shaped heptamer is composed of a cap domain (comprising 7 beta sandwiches and the amino latches of each protomer), 7 rim regions whose protruding strands may interact with the membrane bilayer, and the stem domain (52 Angstroms in length, 26 Angstroms in diameter) which forms the transmembrane pore.</text>
+</comment>
+<comment type="similarity">
+<text evidence="6">Belongs to the aerolysin family.</text>
+</comment>
+<dbReference type="EMBL" id="X01645">
+<property type="protein sequence ID" value="CAA25801.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M90536">
+<property type="protein sequence ID" value="AAA26598.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="S69209">
+<property type="entry name" value="S69209"/>
+</dbReference>
+<dbReference type="PDB" id="3M2L">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.10"/>
+<property type="chains" value="A/B/C/D/E/F/G=27-319"/>
+</dbReference>
+<dbReference type="PDB" id="3M3R">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.20"/>
+<property type="chains" value="A/B/C/D/E/F/G=27-319"/>
+</dbReference>
+<dbReference type="PDB" id="3M4D">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.90"/>
+<property type="chains" value="A/B/C/D/E/F/G=27-319"/>
+</dbReference>
+<dbReference type="PDB" id="3M4E">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.30"/>
+<property type="chains" value="A/B/C/D/E/F/G=27-319"/>
+</dbReference>
+<dbReference type="PDB" id="4IDJ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.36"/>
+<property type="chains" value="A=27-319"/>
+</dbReference>
+<dbReference type="PDB" id="4YHD">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80"/>
+<property type="chains" value="A/B/C/D/E/G=27-319"/>
+</dbReference>
+<dbReference type="PDB" id="7AHL">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.89"/>
+<property type="chains" value="A/B/C/D/E/F/G=27-319"/>
+</dbReference>
+<dbReference type="PDBsum" id="3M2L"/>
+<dbReference type="PDBsum" id="3M3R"/>
+<dbReference type="PDBsum" id="3M4D"/>
+<dbReference type="PDBsum" id="3M4E"/>
+<dbReference type="PDBsum" id="4IDJ"/>
+<dbReference type="PDBsum" id="4YHD"/>
+<dbReference type="PDBsum" id="7AHL"/>
+<dbReference type="ProteinModelPortal" id="P09616"/>
+<dbReference type="SMR" id="P09616"/>
+<dbReference type="DIP" id="DIP-59322N"/>
+<dbReference type="IntAct" id="P09616">
+<property type="interactions" value="1"/>
+</dbReference>
+<dbReference type="ChEMBL" id="CHEMBL1075259"/>
+<dbReference type="TCDB" id="1.C.3.1.1">
+<property type="family name" value="the Alpha-hemolysin channel-forming toxin (Alphahl) family"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG4106UK0">
+<property type="taxonomic scope" value="Bacteria"/>
+</dbReference>
+<dbReference type="eggNOG" id="ENOG410YPMH">
+<property type="taxonomic scope" value="LUCA"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-844456">
+<property type="pathway name" value="The NLRP3 inflammasome"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P09616"/>
+<dbReference type="PMAP-CutDB" id="P09616"/>
+<dbReference type="PRO" id="PR:P09616"/>
+<dbReference type="GO" id="GO:0005576">
+<property type="term" value="C:extracellular region"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042802">
+<property type="term" value="F:identical protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="IntAct"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090729">
+<property type="term" value="F:toxin activity"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0044179">
+<property type="term" value="P:hemolysis in other organism"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR005831">
+<property type="entry name" value="Aerolysin/haemolysin_CS"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003963">
+<property type="entry name" value="Bi-component_toxin_staph"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR016183">
+<property type="entry name" value="Leukocidin/Hemolysin_toxin"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR036435">
+<property type="entry name" value="Leukocidin/porin_MspA_sf"/>
+</dbReference>
+<dbReference type="Pfam" id="PF07968">
+<property type="entry name" value="Leukocidin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR01468">
+<property type="entry name" value="BICOMPNTOXIN"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF56959">
+<property type="entry name" value="SSF56959"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR01002">
+<property type="entry name" value="hlyII"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS00274">
+<property type="entry name" value="AEROLYSIN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0204">Cytolysis</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0354">Hemolysis</keyword>
+<keyword id="KW-0964">Secreted</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0800">Toxin</keyword>
+<feature type="signal peptide" evidence="5">
+<location>
+<begin position="1"/>
+<end position="26"/>
+</location>
+</feature>
+<feature type="chain" description="Alpha-hemolysin" id="PRO_0000035636">
+<location>
+<begin position="27"/>
+<end position="319"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Gly-rich">
+<location>
+<begin position="145"/>
+<end position="169"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage of monomers by proteinase K (minor site)">
+<location>
+<begin position="159"/>
+<end position="160"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage of monomers by proteinase K (major site)">
+<location>
+<begin position="161"/>
+<end position="162"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage of monomers by proteinase K (minor site)">
+<location>
+<begin position="164"/>
+<end position="165"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage of monomers by proteinase K (major site)">
+<location>
+<begin position="165"/>
+<end position="166"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No oligomerization nor hemolytic activity.">
+<original>H</original>
+<variation>L</variation>
+<location>
+<position position="61"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="No oligomerization nor hemolytic activity.">
+<original>H</original>
+<variation>R</variation>
+<location>
+<position position="61"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="7% of normal hemolytic activity.">
+<original>H</original>
+<variation>L</variation>
+<location>
+<position position="74"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="16% of normal hemolytic activity.">
+<original>H</original>
+<variation>L</variation>
+<location>
+<position position="170"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="46% of normal hemolytic activity.">
+<original>H</original>
+<variation>L</variation>
+<location>
+<position position="285"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="28"/>
+<end position="31"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="35"/>
+<end position="38"/>
+</location>
+</feature>
+<feature type="strand" evidence="2">
+<location>
+<begin position="40"/>
+<end position="43"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="47"/>
+<end position="55"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="56"/>
+<end position="59"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="60"/>
+<end position="69"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="74"/>
+<end position="87"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="92"/>
+<end position="95"/>
+</location>
+</feature>
+<feature type="turn" evidence="3">
+<location>
+<begin position="98"/>
+<end position="100"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="101"/>
+<end position="115"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="123"/>
+<end position="129"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="135"/>
+<end position="153"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="158"/>
+<end position="184"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="188"/>
+<end position="197"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="200"/>
+<end position="202"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="205"/>
+<end position="208"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="215"/>
+<end position="217"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="232"/>
+<end position="234"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="239"/>
+<end position="241"/>
+</location>
+</feature>
+<feature type="helix" evidence="4">
+<location>
+<begin position="244"/>
+<end position="247"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="254"/>
+<end position="260"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="268"/>
+<end position="286"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="288"/>
+<end position="311"/>
+</location>
+</feature>
+<feature type="turn" evidence="4">
+<location>
+<begin position="312"/>
+<end position="315"/>
+</location>
+</feature>
+<feature type="strand" evidence="4">
+<location>
+<begin position="316"/>
+<end position="318"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="3M4D"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4IDJ"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="4YHD"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="7AHL"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6500704"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000305"/>
+<sequence length="319" mass="35904" checksum="6711C415DF7EBF30" modified="1992-12-01" version="2" precursor="true">
+MKTRIVSSVTTTLLLGSILMNPVAGAADSDINIKTGTTDIGSNTTVKTGDLVTYDKENGM
+HKKVFYSFIDDKNHNKKLLVIRTKGTIAGQYRVYSEEGANKSGLAWPSAFKVQLQLPDNE
+VAQISDYYPRNSIDTKEYMSTLTYGFNGNVTGDDTGKIGGLIGANVSIGHTLKYVQPDFK
+TILESPTDKKVGWKVIFNNMVNQNWGPYDRDSWNPVYGNQLFMKTRNGSMKAADNFLDPN
+KASSLLSSGFSPDFATVITMDRKASKQQTNIDVIYERVRDDYQLHWTSTNWKGTNTKDKW
+TDRSSERYKIDWEKEEMTN
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>
